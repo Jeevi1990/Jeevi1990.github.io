@@ -84,6 +84,8 @@
           "JavaScript",
           "Python",
           "Java",
+          "KAFKA",
+          "RUBY",
           "TypeScript"
         ]
       },
@@ -93,7 +95,9 @@
           "Git",
           "GitHub",
           "VS Code",
-          "Docker"
+          "Docker",
+          "Kubernetes",
+          "MongoDB"
         ]
       },
       {
